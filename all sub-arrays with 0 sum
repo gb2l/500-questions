@@ -1,0 +1,3 @@
+calculate sum till this index
+prepare map<int,vector> for all sums
+for each vector in map n^2 ka loop
